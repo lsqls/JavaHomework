@@ -20,9 +20,7 @@ public class Excercise9 {
                 try {
                     max = Math.max(cal(i, j), max);
                 }
-                catch(Exception exception){
-                    continue;
-                }
+                catch(Exception exception){ }
             }
         }
         System.out.println(max);
