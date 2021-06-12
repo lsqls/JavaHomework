@@ -1,0 +1,2363 @@
+Initialize engine version: 2018.4.10f1 (a0470569e97b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   (null)
+    VRAM:     1983 MB
+    Driver:   25.21.14.2525
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.134 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.842900 ms
+Logging Unity output to: Logs/hearthstone_2021_06_06_19_32_08.log
+Current working dir=C:\Program Files (x86)\Hearthstone
+LocalOptions.LoadAllLines() - Failed to load line 16
+"innkeepersSpecialLastShownAd=".
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Downloader] Retreived deeplink: 
+Error loading config file client.config
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Error.AddDevWarning() - header=GameStrings Error message=GameStringTable.Load() - There are no entries for category GLOBAL - path: .
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameStrings.LoadCategory() - GLOBAL failed to load
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Error.AddDevWarningNonRepeating() - header=GameStrings Error message=GameStringTable.Load() - There are no entries for category GLUE - path: .
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameStrings.LoadCategory() - GLUE failed to load
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Error loading config file client.config
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Failed to load config file: 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Command Line: -launch -uid hs_beta
+UberText LoadCachedData() failed: The output char buffer is too small to contain the decoded characters, encoding 'Unicode (UTF-8)' fallback 'System.Text.DecoderReplacementFallback'.
+Parameter name: chars
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[ExceptionReporter] Version 1.1.3
+[ExceptionReporter] ScreenshotPath: C:/Users/Master/AppData/LocalLow/Blizzard Entertainment/Hearthstone\Screenshot.png
+[ExceptionReporter] Loaded exception data from 'C:/Users/Master/AppData/Local/Blizzard/Hearthstone/Exceptions/ExceptionReporter.json'
+[ExceptionReporter] User UUID: 1c2c4d0b300a1dfdb290b1cfd62eb6eb61632947
+[Downloader] Try to delete the old asset bundles
+[ExceptionReporter] Checking the exceptions from previous launch.
+[ExceptionReporter] Saved exception data(Count: 0) to 'C:/Users/Master/AppData/Local/Blizzard/Hearthstone/Exceptions/ExceptionReporter.json'
+System Info:
+SystemInfo - Device Name: MASTER-MATEBOOK
+SystemInfo - Device Model: KLV-WX9 (HUAWEI)
+SystemInfo - OS: Windows 10  (10.0.0) 64bit
+SystemInfo - CPU Type: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+SystemInfo - CPU Cores: 8
+SystemInfo - System Memory: 8037
+SystemInfo - Screen Resolution: 1920x1080
+SystemInfo - Screen DPI: 96
+SystemInfo - GPU ID: 7443
+SystemInfo - GPU Name: NVIDIA GeForce MX250
+SystemInfo - GPU Vendor: NVIDIA
+SystemInfo - GPU Memory: 1983
+SystemInfo - GPU Shader Level: 50
+SystemInfo - GPU NPOT Support: Full
+SystemInfo - Graphics API (version): Direct3D 11.0 [level 11.1]
+SystemInfo - Graphics API (type): Direct3D11
+SystemInfo - Graphics Supported Render Target Count: 8
+SystemInfo - Graphics Supports 3D Textures: True
+SystemInfo - Graphics Supports Compute Shaders: True
+SystemInfo - Graphics Supports Image Effects: True
+SystemInfo - Graphics Supports Render To Cubemap: True
+SystemInfo - Graphics Supports Shadows: True
+SystemInfo - Graphics Supports Sparse Textures: True
+SystemInfo - Graphics RenderTextureFormat.ARGBHalf: True
+SystemInfo - Graphics Metal Support: False
+GAME_SAVE_SUBKEY DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GLOBAL DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+SeverConnection: error opening inbound connection: 以一种访问权限不允许的方式做了一个访问套接字的尝试。
+ (this probably occurred because you have multiple game instances running)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+service: bnet.protocol.connection.ConnectionService, hash: 1698982289
+service: bnet.protocol.notification.NotificationService, hash: 213793859
+service: bnet.protocol.notification.NotificationListener, hash: 3788189352
+service: bnet.protocol.friends.FriendsService, hash: 2749215165
+service: bnet.protocol.friends.FriendsNotify, hash: 1864735251
+service: bnet.protocol.presence.PresenceService, hash: 4194801407
+service: bnet.protocol.channel.ChannelSubscriber, hash: 3213656212
+service: bnet.protocol.channel.v2.ChannelService, hash: 2039298513
+service: bnet.protocol.channel.v2.membership.ChannelMembershipService, hash: 2119327385
+service: bnet.protocol.channel.v2.ChannelListener, hash: 451225222
+service: bnet.protocol.channel.v2.membership.ChannelMembershipListener, hash: 25167806
+service: bnet.protocol.game_utilities.GameUtilities, hash: 1069623117
+service: bnet.protocol.matchmaking.GameRequest, hash: 2404820201
+service: bnet.protocol.matchmaking.GameRequestListener, hash: 1172675661
+service: bnet.protocol.challenge.ChallengeNotify, hash: 3151632159
+service: bnet.protocol.account.AccountService, hash: 1658456209
+service: bnet.protocol.account.AccountNotify, hash: 1423956503
+service: bnet.protocol.authentication.AuthenticationServer, hash: 233634817
+service: bnet.protocol.authentication.AuthenticationClient, hash: 1898188341
+service: bnet.protocol.resources.Resources, hash: 3971904954
+service: bnet.protocol.session.SessionListener, hash: 2145610546
+*** BattleNet version: Product = 20.4.0.0, Data = 20400
+[Login] Beginning processing login challenges
+show postition = (0.0, 0.0, 0.0) (5.0, 5.0, 5.0)
+[Login] Processing challenge, previous login challenge attempts 0
+[BattleNet] [Session] HandleSessionNotify_OnSessionCreated, data=bnet.protocol.session.v1.SessionCreatedNotification (Void LogWarning(System.String, System.String) at :0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[Login] We are now logged in, stopping processing challenges
+[BattleNet] [LocalStorage] Parsinig of HTTP header failed for State=[Region=CN Usage=apps SHA256=06bf472253d6a9f1f5c2ea77826a52b855a2dd6a1dcf765c8b6deee9741bdd89 ID=0] Connection=[Host=cn.depot.battlenet.com.cn Port=1119] Request=[GET /06bf472253d6a9f1f5c2ea77826a52b855a2dd6a1dcf765c8b6deee9741bdd89.apps HTTP/1.1
+Host: cn.depot.battlenet.com.cn
+User-Agent: HearthStone
+Connection: close
+
+]
+  at bgs.LocalStorageAPI.CompleteDownload (bgs.LocalStorageFileState state) [0x00000] in <c7c7ff081a4b4dca823787cfc123d4ef>:0 
+  at bgs.LocalStorageAPI.ReceiveCallback (System.IAsyncResult ar) [0x00000] in <c7c7ff081a4b4dca823787cfc123d4ef>:0 
+  at System.Net.Sockets.SocketAsyncResult+<>c.<Complete>b__27_0 (System.Object state) [0x00000] in <d2957de1c3fd4781a43d89572183136c>:0 
+  at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem () [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Threading.ThreadPoolWorkQueue.Dispatch () [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback () [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0 
+------------------------------- (Void LogWarning(System.String, System.String) at :0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[BattleNet] [LocalStorage] Request failed State=[Region=CN Usage=apps SHA256=06bf472253d6a9f1f5c2ea77826a52b855a2dd6a1dcf765c8b6deee9741bdd89 ID=0]
+  at bgs.LocalStorageAPI.Process () [0x00000] in <c7c7ff081a4b4dca823787cfc123d4ef>:0 
+  at bgs.BattleNetCSharp.ProcessAurora () [0x00000] in <c7c7ff081a4b4dca823787cfc123d4ef>:0 
+  at bgs.BattleNet.ProcessAurora () [0x00000] in <c7c7ff081a4b4dca823787cfc123d4ef>:0 
+  at Network.ProcessAurora () [0x00000] in <574956e21278432893c2a3cc6aa07c03>:0 
+  at Network.ProcessNetwork () [0x00000] in <574956e21278432893c2a3cc6aa07c03>:0 
+  at Login.Update () [0x00000] in <574956e21278432893c2a3cc6aa07c03>:0 
+------------------------------- (Void LogWarning(System.String, System.String) at :0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[BattleNet] [Presence] Downloading of rich presence data from depot failed! (Void LogWarning(System.String, System.String) at :0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[BattleNet] [Presence] Failed to resolve rich presence strings (Void LogWarning(System.String, System.String) at :0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+RegisterScreenBox tempGuardianVars=NetCache+NetCacheFeatures
+[HealthyGaming] CAIS ServerEnabledForPlatform=True AccountCAISForChina=False Country=CHN TimeSec=13.29998 PlayedTimeMin=0 RestedTimeMin=0 SessionStartTime=1188154816
+[HealthyGaming] Healthy Gaming Deactivated: account not set for CAIS.
+[Login] Changing mode
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - => Send header, 0000000246 bytes (0x000000f6)
+POST /oauth/sso HTTP/1.1
+Host: www.battlenet.com.cn
+User-Agent: EcommerceSdk/7.0.1-RC10 (title=WTCG/20.4.0.84593-Windows; http; Scene; Checkout; Catalog; vc)
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 255
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - => Send data, 0000000255 bytes (0x000000ff)
+scope=commerce.catalog.basic featuredshop.composition.basic commerce.profile.basic commerce.virtualcurrency.basic commerce.purchase:create&grant_type=client_sso&client_id=97bdcfb3d7d84044b0c14106c6627316&token=CN-1aed4daf785be3307bdd9e2bb21aefe6-517462498
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000017 bytes (0x00000011)
+HTTP/1.1 200 OK
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000037 bytes (0x00000025)
+Date: Sun, 06 Jun 2021 11:32:22 GMT
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000016 bytes (0x00000010)
+Server: Apache
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000029 bytes (0x0000001d)
+X-Frame-Options: SAMEORIGIN
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000018 bytes (0x00000012)
+Retry-After: 600
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000025 bytes (0x00000019)
+Cache-Control: no-store
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000018 bytes (0x00000012)
+Pragma: no-cache
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000023 bytes (0x00000017)
+Vary: Accept-Encoding
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000028 bytes (0x0000001c)
+Transfer-Encoding: chunked
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000046 bytes (0x0000002e)
+Content-Type: application/json;charset=UTF-8
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv header, 0000000002 bytes (0x00000002)
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:23 {3d18} [DEBUG] - <= Recv data, 0000000271 bytes (0x0000010f)
+fe
+{"access_token":"CNVV828M40RT126qO7pSx1sjJV2i5dDUkj","token_type":"bearer","expires_in":86399,"scope":"featuredshop.composition.basic commerce.purchase:create commerce.profile.basic commerce.virtualcurrency.basic commerce.catalog.basic","sub":"517462498"
+1
+}
+0
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:25 {3d18} [DEBUG] - => Send header, 0000000389 bytes (0x00000185)
+POST /PurchaseService/v1/GetAccountDefaultCurrency HTTP/1.1
+Host: gateway.battlenet.com.cn
+User-Agent: EcommerceSdk/7.0.1-RC10 (title=WTCG/20.4.0.84593-Windows; http; Scene; Checkout; Catalog; vc)
+Accept: */*
+content-type: application/json
+Authorization: Bearer CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Blizzard-OAuth-Bearer-Token: CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Content-Length: 2
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:25 {3d18} [DEBUG] - => Send data, 0000000002 bytes (0x00000002)
+{}
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000017 bytes (0x00000011)
+HTTP/1.1 200 OK
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000037 bytes (0x00000025)
+Date: Sun, 06 Jun 2021 11:32:24 GMT
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000046 bytes (0x0000002e)
+content-type: application/json;charset=UTF-8
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000020 bytes (0x00000014)
+content-length: 40
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000055 bytes (0x00000037)
+x-trace-traceid: 027ec56a-548a-3862-b849-2cb011f8a199
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000054 bytes (0x00000036)
+x-trace-spanid: 167221ff-d2e0-c980-f975-fa169abb7620
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000060 bytes (0x0000003c)
+x-trace-parentspanid: 167221ff-d2e0-c950-f975-fa169abb7620
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000029 bytes (0x0000001d)
+x-frame-options: SAMEORIGIN
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000033 bytes (0x00000021)
+X-Content-Type-Options: nosniff
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000024 bytes (0x00000018)
+connection: keep-alive
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000002 bytes (0x00000002)
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000000040 bytes (0x00000028)
+{"error":null,"currencyAlphaCode":"CPT"}
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - Received {"error":null,"currencyAlphaCode":"CPT"}.  Adding default currency code to {"paginationToken":"","externalPlatformId":0,"currencyCodes":[],"gameServiceRegionId":5,"storeId":6,"paginationSize":200,"locale":"zhCN"}
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - Adding CPT to currency array.
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - Loading products with {"paginationToken":"","externalPlatformId":0,"currencyCodes":["CPT"],"gameServiceRegionId":5,"storeId":6,"paginationSize":200,"locale":"zhCN"}
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - => Send header, 0000000392 bytes (0x00000188)
+POST /ProductCatalogService/v1/GetProductsByStoreId HTTP/1.1
+Host: gateway.battlenet.com.cn
+User-Agent: EcommerceSdk/7.0.1-RC10 (title=WTCG/20.4.0.84593-Windows; http; Scene; Checkout; Catalog; vc)
+Accept: */*
+content-type: application/json
+Authorization: Bearer CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Blizzard-OAuth-Bearer-Token: CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Content-Length: 142
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - => Send data, 0000000142 bytes (0x0000008e)
+{"paginationToken":"","externalPlatformId":0,"currencyCodes":["CPT"],"gameServiceRegionId":5,"storeId":6,"paginationSize":200,"locale":"zhCN"}
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000017 bytes (0x00000011)
+HTTP/1.1 200 OK
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000037 bytes (0x00000025)
+Date: Sun, 06 Jun 2021 11:32:24 GMT
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000032 bytes (0x00000020)
+content-type: application/json
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000028 bytes (0x0000001c)
+transfer-encoding: chunked
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000055 bytes (0x00000037)
+x-trace-traceid: 87a6e941-4341-3bd4-b191-3c197611de9a
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000054 bytes (0x00000036)
+x-trace-spanid: 16722203-82c7-6a00-0345-fa169a13e891
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000060 bytes (0x0000003c)
+x-trace-parentspanid: 16722203-82c7-69d0-0345-fa169a13e891
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000029 bytes (0x0000001d)
+x-frame-options: SAMEORIGIN
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000033 bytes (0x00000021)
+X-Content-Type-Options: nosniff
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000024 bytes (0x00000018)
+connection: keep-alive
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv header, 0000000002 bytes (0x00000002)
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000016013 bytes (0x00003e8d)
+2000
+{"error":null,"products":[{"productId":237,"name":"2 Classic Packs","licenses":[{"licenseId":284,"licenseType":2,"name":"BOOSTER_PACK_F","licenseAttributes":[{"key":"type","value":"1"},{"key":"product","value":"booster"},{"key":"data","value":"1"},{"key":"quantity","value":"2"}]}],"prices":[],"localization":{"locale":"zhCN","name":"2","description":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":{"gameS
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000015080 bytes (0x00003ae8)
+ull,"serviceItemId":43},{"productId":10818,"name":"40 Goblins vs Gnomes Packs","licenses":[{"licenseId":10741,"licenseType":2,"name":"40 Goblins vs Gnomes Packs","licenseAttributes":[{"key":"product","value":"booster"},{"key":"data","value":"9"},{"key":"qua
+80
+ntity","value":"40"}]}],"prices":[],"localization":{"locale":"zhCN","name":"40
+2000
+","description":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting"
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000015399 bytes (0x00003c27)
+","name":"40","description":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":{"gameServiceRegionId":5,"attributes":[{"key":"apple-id","value":"com.blizzard.wtcg.hearthstone.cn.iapCN.x2.booster40"}]}},"virtualCurrencyGrants":[],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":20287,"name":"60 The Grand Tournament Packs","licenses":[{"licenseId":15067,"licenseT
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000015030 bytes (0x00003ab6)
+licenseType":1,"name":"Karazhan The Prologue","licenseAttributes":[{"key":"product","value":"wing"},{"key":"data","value":"15"},{"key":"quantity","value":"1"}]}],"prices":[],"localization":{"locale":"zhCN","name":"","description":" \n 12\n 45\n "},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":{"gameServiceRegionId":5,"attributes":[{"key":"apple-id","value":"com.blizzard.wtcg.hearthstone.cn.iapCN.A004B001"}]}},"
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000015046 bytes (0x00003ac6)
+"licenseId":17648,"licenseType":2,"name":"15 Journey to Un'Goro Packs","licenseAttributes":[{"key":"product","value":"booster"},{"key":"data","value":"20"},{"key":"quantity","value":"15"}]}],"prices":[],"localization":{"locale":"zhCN","name":"15","description":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":{"gameServiceRegionId":5,"attributes":[{"key":"apple-id","value":"com.blizzard.wtcg.hearthstone.cn.iapC
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000015048 bytes (0x00003ac8)
+ata","value":"2"},{"key":"quantity","value":"40"}]}],"prices":[{"currencyCode":"CPT","currencyTypeId":1,"originalPrice":"328","currentPrice":"328","localizedOriginalPrice":"328","localizedCurrentPrice":"328"}],"localization":{"locale":"zhCN","name":"4040","description":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":{"gameServiceRegionId":5,"attributes":[{"key":"apple-id","value":"com.blizzard.wtcg.hearthston
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000014814 bytes (0x000039de)
+licenseAttributes":[{"key":"product","value":"booster"},{"key":"data","value":"21"},{"key":"quantity","value":"60"}]},{"licenseId":21373,"licenseType":2,"name":"60 Arcane Dust","licenseAttributes":[{"key":"product","value":"currency"},{"key":"data","value":"2"},{"key":"quantity","value":"60"}]}],"prices":[{"currencyCode":"CPT","currencyTypeId":1,"originalPrice":"388","currentPrice":"388","localizedOriginalPrice":"388","localiz
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000016384 bytes (0x00004000)
+","description":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":{"gameServiceRegionId":5,"attributes":[{"key":"apple-id","value":"com.blizzard.wtcg.hearthstone.cn.iap
+1f20
+cn.mb.booster30.d"}]}},"virtualCurrencyGrants":[],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":35928,"name":"7 The Witchwood Packs","licenses":[{"licenseId":28701,"licenseType":2,"na
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000016384 bytes (0x00004000)
+328","localizedCurrentPrice":"328"}],"localization":{"locale":"zhCN","name":"40+540+5 - ","description":""},"storeSetting":null,"virtualCurrencyGrants":[],"activeS
+1f10
+ale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":38908,"name":"Bundle of 60 Dust with 60 The Boomsday Project gift packs","licenses":[{"licenseId":21373,"licenseType":2,"name":"60 Arcane Dust","licenseAttributes":[{
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:26 {3d18} [DEBUG] - <= Recv data, 0000002986 bytes (0x00000baa)
+:2,"name":"60 Rastakhan's Rumble Packs","licenseAttributes":[{"key":"product","value":"booster"},{"key":"data","value":"40"},{"key":"quantity","value":"60"}]}],"prices":[],"localization":{"locale":"zhCN","name":"60
+1f00
+","description":""},"storeSetting":{"storeId":6,"attributes":[{"key":"Tags","value":"hide_on_mobile"}],"regionalSetting":{"gameServiceRegionId":5,"attributes":[]}},"virtualCurrencyGrants":[],"activeSale":null
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv data, 0000016384 bytes (0x00004000)
+":"328"}],"localization":{"locale":"zhCN","name":"4040","description":""},"storeSetting":null,"virtualCurrencyGrants":[],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":44475,"name":"Bundle of 60 Dust with 60 Rastakhan's Rumble gift packs","licenses":[{"licenseId":35077,"licenseType":2,"name":"60 Rastakhan's Rumble Packs","licenseAttributes":[{"key":"product","value":"booste
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv data, 0000016384 bytes (0x00004000)
+roductId":48511,"name":"60 Rise of Shadows Packs","licenses":[{"licenseId":37901,"licenseType":2,"name":"60 Rise of Shadows Packs","licenseAttributes":[{"key":"product","value":"booster"},{"key":"data","value":"49"},{"key":"quantity","value":"60"}]}],"prices":[],"localization":{"locale":"zhCN","name":"60\n","description":""},"storeSetting":{"storeId":6,"attributes":[{"key":"Tags","value":"hide_on_mobile"}],"regionalSetting":{"
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv data, 0000005773 bytes (0x0000168d)
+9"},{"key":"quantity","value":"5"}]}],"prices":[{"currencyCode":"CPT","currencyTypeId":1,"originalPrice":"128","currentPrice":"128","localizedOriginalPrice":"128","localizedCurrentPrice":"128"}],"localization":{"locale":"zhCN","name":"20201","description":""},"storeSetting":null,"virtualCurrencyGrants":[],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":58891,"name":"Tombs of
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 237 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 238 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 240 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 241 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 327 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10453 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10454 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10455 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10456 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10457 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10458 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10459 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10499 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10500 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10814 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10815 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10816 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10817 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10818 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 10819 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11514 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11515 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11516 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11517 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11518 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11520 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11521 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11522 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 11523 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 15591 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 20282 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 20283 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 20284 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 20286 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 20287 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21043 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21062 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21066 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21067 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21068 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21069 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21070 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21562 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21563 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21564 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21589 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21590 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 21674 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22201 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22202 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22203 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22204 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22205 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22206 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22207 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22282 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22597 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22648 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22649 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22650 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22651 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22652 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22829 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22830 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22832 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22833 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 22834 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 26695 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 26750 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 26751 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 26752 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 26753 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 29829 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 32304 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 32305 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 32310 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 32311 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 32312 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 33032 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 33909 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 35928 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 35932 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 36105 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 36296 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 36315 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 38899 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 38900 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 38901 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 38902 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 38917 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 44450 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 44451 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 44452 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 44470 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 44471 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 45450 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 45470 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 45471 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 45490 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 45830 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 47850 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48250 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48371 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48372 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48390 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48471 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48490 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48491 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48510 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48511 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 48930 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 49530 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 49550 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 58850 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 58891 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 58910 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 58911 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 59570 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 60510 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:27 {3d18} [WARNING] - 60990 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - => Send header, 0000000392 bytes (0x00000188)
+POST /ProductCatalogService/v1/GetProductsByStoreId HTTP/1.1
+Host: gateway.battlenet.com.cn
+User-Agent: EcommerceSdk/7.0.1-RC10 (title=WTCG/20.4.0.84593-Windows; http; Scene; Checkout; Catalog; vc)
+Accept: */*
+content-type: application/json
+Authorization: Bearer CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Blizzard-OAuth-Bearer-Token: CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Content-Length: 145
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - => Send data, 0000000145 bytes (0x00000091)
+{"paginationToken":"200","externalPlatformId":0,"currencyCodes":["CPT"],"gameServiceRegionId":5,"storeId":6,"paginationSize":200,"locale":"zhCN"}
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000017 bytes (0x00000011)
+HTTP/1.1 200 OK
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000037 bytes (0x00000025)
+Date: Sun, 06 Jun 2021 11:32:26 GMT
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000032 bytes (0x00000020)
+content-type: application/json
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000028 bytes (0x0000001c)
+transfer-encoding: chunked
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000055 bytes (0x00000037)
+x-trace-traceid: 5749adae-3e04-3261-8230-21d4db034505
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000054 bytes (0x00000036)
+x-trace-spanid: 16722203-87b1-80f0-515e-fa169a54e173
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000060 bytes (0x0000003c)
+x-trace-parentspanid: 16722203-87b1-80c0-515e-fa169a54e173
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000029 bytes (0x0000001d)
+x-frame-options: SAMEORIGIN
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000033 bytes (0x00000021)
+X-Content-Type-Options: nosniff
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000024 bytes (0x00000018)
+connection: keep-alive
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv header, 0000000002 bytes (0x00000002)
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv data, 0000013309 bytes (0x000033fd)
+2000
+{"error":null,"products":[{"productId":60991,"name":"7 Saviors of Uldum Packs","licenses":[{"licenseId":47878,"licenseType":2,"name":"7 Saviors of Uldum Packs","licenseAttributes":[{"key":"product","value":"booster"},{"key":"data","value":"128"},{"key":"quantity","value":"7"}]}],"prices":[],"localization":{"locale":"zhCN","name":"7","description":""},"storeSetting":{"storeId":6,"attributes":[{"key":"Tags","value":"uld_th
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv data, 0000015048 bytes (0x00003ac8)
+ - Evil (Free)","licenses":[{"licenseId":50256,"licenseType":1,"name":"16.2 Dragons Adventure - Wing 1 - Evil","licenseAttributes":[{"key":"product","value":"wing"},{"key":"data","value":"2363"},{"key":"quantity","value":"1"}]}],"prices":[{"currencyCode":"CPT","currencyTypeId":1,"originalPrice":"0","currentPrice":"0","localizedOriginalPrice":"0","localizedCurrentPrice":"0"}],"localization":{"locale":"zhCN","name":" - 1","descr
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv data, 0000015048 bytes (0x00003ac8)
+Setting":null,"serviceItemId":70},{"productId":73199,"name":"Ashes of Outland Adventure","licenses":[{"licenseId":52738,"licenseType":1,"name":"Ashes of Outland Heroic Adventure - Wing 1","licenseAttributes":[{"key":"product","value":"wing"},{"key":"data","value":"2497"},{"key":"quantity","value":"1"}]},{"licenseId":52739,"licenseType":1,"name":"Ashes of Outland Heroic Adventure - Wing 2","licenseAttributes":[{"key":"product",
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv data, 0000015048 bytes (0x00003ac8)
+{"locale":"zhCN","name":"7","description":""},"storeSetting":{"storeId":6,"attributes":[{"key":"Tags","value":"darkmoon_theme, hide_filigrees"}],"regionalSetting":null},"virtualCurrencyGrants":[],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":111680,"name":"15 Madness at the Darkmoon Faire Packs","licenses":[{"licenseId":77030,"licenseType":2,"name":"15 Madness at the Darkm
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:27 {3d18} [DEBUG] - <= Recv data, 0000015371 bytes (0x00003c0b)
+:37837,"licenseType":1,"name":"The Great Dalaran Heist - Wing 5 - Kirin Tor Citadel","licenseAttributes":[{"key":"product","value":"wing"},{"key":"data","value":"2216"},{"key":"quantity","value":"1"}]}],"prices":[],"localization":{"locale":"zhCN","name":"","description":"  \n  \n  "},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":{"gameServiceRegionId":5,"attributes":[]}},"virtualCurrencyGrants":[],"activeSale":
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv data, 0000015046 bytes (0x00003ac6)
+1f40
+],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":229605,"name":"Rainbow! Card Back","licenses":[{"licenseId":140632,"licenseType":1,"name":"Rainbow! Card Back","licenseAttributes":[{"key":"product","value":"cardback"},{"key":"data","value":"3"},{"key":"quantity","value":"1"},{"key":"Minimum Patch","value":"20400"}]}],"prices":[],"localization":{"locale":"zhCN","name":
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv data, 0000016384 bytes (0x00004000)
+Minimum Patch","value":"20400"}]}],"prices":[],"localization":{"locale":"zhCN","name":"","description":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":null},"virtualCurrencyGrants":[],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":229633,"name":"Year of the Mammoth Card Back","licenses":[{"licenseId":140660,"licenseType":1,"name":"Year of the Mammoth Card 
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv data, 0000016384 bytes (0x00004000)
+56"},{"key":"quantity","value":"1"}]}],"prices":[],"localization":{"locale":"zhCN","name":"","description":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":null},"virtualCurrencyGrants":[],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":229746,"name":"Power Core Card Back (Gold Only)","licenses":[{"licenseId":16221,"licenseType":1,"name":"eSports Power Core 
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv data, 0000007649 bytes (0x00001de1)
+on":""},"storeSetting":{"storeId":6,"attributes":[],"regionalSetting":null},"virtualCurrencyGrants":[],"activeSale":null,"activeOffer":null,"externalPlatformSetting":null,"serviceItemId":43},{"productId":229816,"name":"Winter Veil Wreath Card Back (Gold Only)","licenses":[{"licenseId":89163,"licenseType":1,"name":"Winter Veil Wreath Card Back","licenseAttributes":[{"key":"product","value":"cardback"},{"key":"data","value":"43"
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 60991 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 61010 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 61011 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 61012 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 68952 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 69391 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 69392 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 69393 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 69410 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 69411 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 69430 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 70421 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 70454 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 70455 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 70456 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 70457 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 71190 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 73205 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 73206 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 73251 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 73252 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 73253 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 74966 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 74967 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 74968 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 74980 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 74981 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 111412 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 111679 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 111680 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 111681 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 111682 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 166478 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 168267 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 168286 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 173065 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 173072 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 173073 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 173074 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 173083 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 173084 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 191361 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 212981 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 212982 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217441 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217461 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217481 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217482 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217483 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217501 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217502 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217521 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217541 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 217542 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 220181 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 227321 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229522 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229562 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229563 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229602 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229604 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229605 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229606 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229607 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229608 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229609 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229610 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229611 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229612 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229613 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229614 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229615 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229616 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229617 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229618 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229619 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229620 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229621 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229622 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229623 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229624 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229625 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229626 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229627 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229628 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229629 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229630 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229631 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229632 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229633 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229634 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229635 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229636 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229637 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229638 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229639 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229640 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229641 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229642 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229643 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229644 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229645 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229646 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229647 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229648 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229649 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229650 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229651 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229652 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229653 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229654 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229655 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229656 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229657 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229658 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229659 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229669 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229744 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229745 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229746 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229747 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229748 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229749 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229750 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229751 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229752 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229753 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229754 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229755 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229756 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229757 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229758 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229759 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229760 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229801 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229802 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229803 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229804 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229805 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229806 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229807 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229808 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229809 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229810 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229811 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229812 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229813 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229814 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229815 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229816 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229817 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229818 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229819 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229820 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229821 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229823 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229824 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229825 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229826 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229827 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|WARNING (blz_commerce)] 2021-06-06T19:32:28 {3d18} [WARNING] - 229828 received no prices.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - Product map size: 102
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - => Send header, 0000000387 bytes (0x00000183)
+POST /FeaturedShopCompositionService/v1/GetPage HTTP/1.1
+Host: gateway.battlenet.com.cn
+User-Agent: EcommerceSdk/7.0.1-RC10 (title=WTCG/20.4.0.84593-Windows; http; Scene; Checkout; Catalog; vc)
+Accept: */*
+content-type: application/json
+Authorization: Bearer CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Blizzard-OAuth-Bearer-Token: CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Content-Length: 89
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - => Send data, 0000000089 bytes (0x00000059)
+{"gameServiceRegionId":5,"pageId":"e85dd885-eb1b-400e-89f2-26d12e5ca94e","locale":"zhCN"}
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000017 bytes (0x00000011)
+HTTP/1.1 200 OK
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000037 bytes (0x00000025)
+Date: Sun, 06 Jun 2021 11:32:27 GMT
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000032 bytes (0x00000020)
+content-type: application/json
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000028 bytes (0x0000001c)
+transfer-encoding: chunked
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000055 bytes (0x00000037)
+x-trace-traceid: f835cbc2-9c36-3afb-bb9c-0b9628e7e402
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000054 bytes (0x00000036)
+x-trace-spanid: 16722200-a30b-f050-0acd-fa169a8278f8
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000060 bytes (0x0000003c)
+x-trace-parentspanid: 16722200-a30b-f020-0acd-fa169a8278f8
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000029 bytes (0x0000001d)
+x-frame-options: SAMEORIGIN
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000033 bytes (0x00000021)
+X-Content-Type-Options: nosniff
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000024 bytes (0x00000018)
+connection: keep-alive
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000002 bytes (0x00000002)
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv data, 0000000997 bytes (0x000003e5)
+2000
+{"error":null,"page":{"pageId":"e85dd885-eb1b-400e-89f2-26d12e5ca94e","name":"HS Featured Shop Page (20.4)","sections":[{"sectionId":"af075b14-c2ae-44f8-9215-270b96fe2a66","orderInPage":1,"name":"Personalization - Welcome (Carry Over)","localization":{"locale":"zhCN","name":"","description":""},"productCollections":[{"productCollectionId":"06a7c77c-e283-4f5e-8762-6dd10a2d0fa2","orderInSection":1,"name":"Personalization -
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv data, 0000009843 bytes (0x00002673)
+"BigSmall"}]},{"sectionId":"8c005a8f-4c2a-4f99-b184-194e7379520f","orderInPage":3,"name":"Personalization - Winback A1/A2 (Carry Over)","localization":{"locale":"zhCN","name":"","description":""},"productCollections":[{"productCollectionId":"e12156a6-5d64-4a32-9c7d-d030759b13f0","orderInSection":1,"name":"Personalization - Winback A1/A2 (Carry Over)","items":[]}],"slots":[],"attributes":[{"sectionAttributeKey":"Style","section
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - => Send header, 0000000388 bytes (0x00000184)
+POST /VirtualCurrencyLedgerService/v1/GetBalance HTTP/1.1
+Host: gateway.battlenet.com.cn
+User-Agent: EcommerceSdk/7.0.1-RC10 (title=WTCG/20.4.0.84593-Windows; http; Scene; Checkout; Catalog; vc)
+Accept: */*
+content-type: application/json
+Authorization: Bearer CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Blizzard-OAuth-Bearer-Token: CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Content-Length: 60
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - => Send data, 0000000060 bytes (0x0000003c)
+{"ledgerKey":{"gameServiceRegionId":0},"currencyCode":"XSA"}
+
+No active Booster sets found
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000017 bytes (0x00000011)
+HTTP/1.1 200 OK
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000037 bytes (0x00000025)
+Date: Sun, 06 Jun 2021 11:32:27 GMT
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000012 bytes (0x0000000c)
+Expires: 0
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000034 bytes (0x00000022)
+X-XSS-Protection: 1 ; mode=block
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000030 bytes (0x0000001e)
+Referrer-Policy: no-referrer
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000063 bytes (0x0000003f)
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000018 bytes (0x00000012)
+Pragma: no-cache
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000065 bytes (0x00000041)
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000032 bytes (0x00000020)
+content-type: application/json
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000021 bytes (0x00000015)
+content-length: 132
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000055 bytes (0x00000037)
+x-trace-traceid: eb743c42-b5b9-3006-ab4f-2f16b529476b
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000054 bytes (0x00000036)
+x-trace-spanid: 167221fc-57ec-07c0-437f-fa169ab7aff0
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000060 bytes (0x0000003c)
+x-trace-parentspanid: 167221fc-57ec-0790-437f-fa169ab7aff0
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000029 bytes (0x0000001d)
+x-frame-options: SAMEORIGIN
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000033 bytes (0x00000021)
+X-Content-Type-Options: nosniff
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000024 bytes (0x00000018)
+connection: keep-alive
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv header, 0000000002 bytes (0x00000002)
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - <= Recv data, 0000000132 bytes (0x00000084)
+{"error":null,"balance":{"ledgerId":{"accountId":517462498,"ledgerKey":null,"currencyCode":"XSA"},"balance":"0"},"softCapped":false}
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - => Send header, 0000000388 bytes (0x00000184)
+POST /VirtualCurrencyLedgerService/v1/GetBalance HTTP/1.1
+Host: gateway.battlenet.com.cn
+User-Agent: EcommerceSdk/7.0.1-RC10 (title=WTCG/20.4.0.84593-Windows; http; Scene; Checkout; Catalog; vc)
+Accept: */*
+content-type: application/json
+Authorization: Bearer CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Blizzard-OAuth-Bearer-Token: CNVV828M40RT126qO7pSx1sjJV2i5dDUkj
+Content-Length: 60
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:28 {3d18} [DEBUG] - => Send data, 0000000060 bytes (0x0000003c)
+{"ledgerKey":{"gameServiceRegionId":0},"currencyCode":"XSB"}
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000017 bytes (0x00000011)
+HTTP/1.1 200 OK
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000037 bytes (0x00000025)
+Date: Sun, 06 Jun 2021 11:32:28 GMT
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000012 bytes (0x0000000c)
+Expires: 0
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000034 bytes (0x00000022)
+X-XSS-Protection: 1 ; mode=block
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000030 bytes (0x0000001e)
+Referrer-Policy: no-referrer
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000063 bytes (0x0000003f)
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000018 bytes (0x00000012)
+Pragma: no-cache
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000065 bytes (0x00000041)
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000032 bytes (0x00000020)
+content-type: application/json
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000021 bytes (0x00000015)
+content-length: 132
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000055 bytes (0x00000037)
+x-trace-traceid: 0100a44b-42ba-36af-8d4b-6e15672132d2
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000054 bytes (0x00000036)
+x-trace-spanid: 16722203-87b1-fc40-515e-fa169a54e173
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000060 bytes (0x0000003c)
+x-trace-parentspanid: 16722203-87b1-fc10-515e-fa169a54e173
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000029 bytes (0x0000001d)
+x-frame-options: SAMEORIGIN
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000033 bytes (0x00000021)
+X-Content-Type-Options: nosniff
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000024 bytes (0x00000018)
+connection: keep-alive
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv header, 0000000002 bytes (0x00000002)
+
+
+
+[COMMMERCE|DEBUG (blz_commerce)] 2021-06-06T19:32:29 {3d18} [DEBUG] - <= Recv data, 0000000132 bytes (0x00000084)
+{"error":null,"balance":{"ledgerId":{"accountId":517462498,"ledgerKey":null,"currencyCode":"XSB"},"balance":"0"},"softCapped":false}
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 94)
+
+Unloading 2725 unused Assets to reduce memory usage. Loaded Objects now: 16776.
+Total: 142.065200 ms (FindLiveObjects: 0.803500 ms CreateObjectMapping: 0.681500 ms MarkObjects: 138.110600 ms  DeleteObjects: 2.469100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 94)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 17993.
+Total: 147.926000 ms (FindLiveObjects: 0.755300 ms CreateObjectMapping: 0.606800 ms MarkObjects: 146.488400 ms  DeleteObjects: 0.074900 ms)
+
+[BattleNet] [Games] Version mismatched. Client:20.4.0.0 Server:2141992 (Void LogWarning(System.String, System.String) at :0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Network.GotoGameServer -- address= 223.252.236.174:3724, game=9390, client=73761255, spectateKey=MPKdLO reconnecting=False
+AddEventHandlerComponent: PlayMakerMouseEvents
+Unloading 3 Unused Serialized files (Serialized files now loaded: 45)
+
+Unloading 660 unused Assets to reduce memory usage. Loaded Objects now: 20696.
+Total: 150.356300 ms (FindLiveObjects: 0.927900 ms CreateObjectMapping: 0.729300 ms MarkObjects: 147.814200 ms  DeleteObjects: 0.884200 ms)
+
+AddEventHandlerComponent: PlayMakerLateUpdate
+Unloading 3 Unused Serialized files (Serialized files now loaded: 221)
+
+Unloading 8468 unused Assets to reduce memory usage. Loaded Objects now: 20072.
+Total: 163.918900 ms (FindLiveObjects: 1.148700 ms CreateObjectMapping: 1.346800 ms MarkObjects: 153.615900 ms  DeleteObjects: 7.807000 ms)
+
+AddEventHandlerComponent: PlayMakerLateUpdate
+SoundManager.UnregisterSourceByClip() - id 0 (source VO_ANNOUNCER_VERSUS_21(Clone) (UnityEngine.AudioSource)) is untracked. clip=VO_ANNOUNCER_VERSUS_21 (UnityEngine.AudioClip)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+AddEventHandlerComponent: PlayMakerLateUpdate
+AddEventHandlerComponent: PlayMakerLateUpdate
+AddEventHandlerComponent: PlayMakerLateUpdate
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=石塘猎人 id=250 zone=HAND zonePos=0 cardId=UNG_073 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 3 states for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 2 transitions for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=鱼人领军 id=482 zone=HAND zonePos=0 cardId=EX1_507 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 3 states for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 2 transitions for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Finish
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=鱼人招潮者 id=688 zone=HAND zonePos=0 cardId=EX1_509 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=石塘猎人 id=690 zone=HAND zonePos=0 cardId=UNG_073 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+
+[*]send echo response
+Finish
+Finish
+Finish
+Finish
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=路霸野猪人 id=870 zone=HAND zonePos=0 cardId=BG20_101 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+AddEventHandlerComponent: PlayMakerLateUpdate
+Finish
+Finish
+Finish
+Finish
+Finish
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=寒光先知 id=1110 zone=HAND zonePos=0 cardId=EX1_103 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=邪鳍导航员 id=1184 zone=HAND zonePos=0 cardId=BT_010 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=邪鳍导航员 id=1505 zone=HAND zonePos=0 cardId=BT_010 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+FRIENDLY PLAY.RemoveCard() - FAILED: 沉默之剑 tried to remove [entityName=路霸野猪人 id=1293 zone=SETASIDE zonePos=0 cardId=BG20_101 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 3 states for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 2 transitions for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Attempt to set pitch to a negative value in AudioSource::SetPitch ignored! This is only supported for AudioClips which are stored in an uncompressed format or will be decompressed at load time.
+ 
+(Filename:  Line: 1392)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+
+[*]send echo response
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=邪鳍导航员 id=1856 zone=HAND zonePos=0 cardId=BT_010 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=寒光先知 id=1952 zone=HAND zonePos=0 cardId=EX1_103 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+FRIENDLY PLAY.RemoveCard() - FAILED: 沉默之剑 tried to remove [entityName=鱼人招潮者 id=1642 zone=SETASIDE zonePos=0 cardId=EX1_509 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=阿古斯防御者 id=1949 zone=HAND zonePos=0 cardId=EX1_093 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+FRIENDLY PLAY.RemoveCard() - FAILED: 沉默之剑 tried to remove [entityName=阿古斯防御者 id=1949 zone=SETASIDE zonePos=0 cardId=EX1_093 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=毒鳍鱼人 id=2528 zone=HAND zonePos=0 cardId=DAL_077 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+FRIENDLY PLAY.RemoveCard() - FAILED: 沉默之剑 tried to remove [entityName=邪鳍导航员 id=2189 zone=SETASIDE zonePos=0 cardId=TB_BaconUps_124 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+UNGFX_Poison_Spit_Impact(Clone) (Spell).BuildFsmStateMap() - Found 2 states for SpellStateType ACTION. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+UNGFX_Poison_Spit_Impact(Clone) (Spell).BuildFsmStateMap() - Found 2 transitions for SpellStateType ACTION. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+FRIENDLY PLAY.RemoveCard() - FAILED: 沉默之剑 tried to remove [entityName=毒鳍鱼人 id=2694 zone=SETASIDE zonePos=0 cardId=DAL_077 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=鱼人领军 id=2978 zone=HAND zonePos=0 cardId=EX1_507 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 3 states for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 2 transitions for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+[*]send echo response
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=鱼人领军 id=3598 zone=HAND zonePos=0 cardId=EX1_507 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=吵吵模组 id=3689 zone=HAND zonePos=0 cardId=BOT_911 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+FRIENDLY PLAY.RemoveCard() - FAILED: 沉默之剑 tried to remove [entityName=寒光先知 id=3309 zone=SETASIDE zonePos=0 cardId=EX1_103 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ParticleStopAction.OnEnter() - GameObject GameObjectContainer (UnityEngine.GameObject) has no ParticleSystem component
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ParticleStopAction.OnEnter() - GameObject GameObjectContainer (UnityEngine.GameObject) has no ParticleSystem component
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ParticleStopAction.OnEnter() - GameObject GameObjectContainer (UnityEngine.GameObject) has no ParticleSystem component
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+ParticleStopAction.OnEnter() - GameObject GameObjectContainer (UnityEngine.GameObject) has no ParticleSystem component
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+FRIENDLY PLAY.RemoveCard() - FAILED: 沉默之剑 tried to remove [entityName=寒光先知 id=3882 zone=SETASIDE zonePos=0 cardId=EX1_103 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=石塘猎人 id=4198 zone=HAND zonePos=0 cardId=UNG_073 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 3 states for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 2 transitions for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+GameState.OnMetaData() - WARNING Entity 11 does not exist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+OPPOSING PLAY.RemoveCard() - FAILED: 鲍勃的酒馆 tried to remove [entityName=坎格尔的学徒 id=4833 zone=HAND zonePos=0 cardId=BGS_012 player=3]
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 3 states for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 2 transitions for SpellStateType DEATH. There should be 1.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+
+[*]send echo response
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+[BattleNet] [ReceiveCallback] ClientConnection.ReceiveCallback called after the connection has been disconnected.
+  at System.Environment.get_StackTrace () [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at bgs.ClientConnection`1[PacketType].ReceiveCallback (System.IAsyncResult ar) [0x00000] in <c7c7ff081a4b4dca823787cfc123d4ef>:0 
+  at System.Net.Sockets.SocketAsyncResult+<>c.<Complete>b__27_0 (System.Object state) [0x00000] in <d2957de1c3fd4781a43d89572183136c>:0 
+  at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem () [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Threading.ThreadPoolWorkQueue.Dispatch () [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0 
+  at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback () [0x00000] in <7ba07f088431485bb722f3b3373e87ee>:0  (Void LogException(System.String, System.String) at :0)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Finish
+Finish
+Finish
+Finish
+Finish
+Finish
+GamesWonIndicator.Show(): cannot do animation; numActiveSegments=0 but should be greater than zero
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 240)
+
+Unloading 21860 unused Assets to reduce memory usage. Loaded Objects now: 31984.
+Total: 415.346100 ms (FindLiveObjects: 4.625500 ms CreateObjectMapping: 6.573400 ms MarkObjects: 289.592600 ms  DeleteObjects: 114.554000 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneMgr/LoadingScreen(Clone)/BaconTwoScoop(Clone)/Hitbox"
+ 
+(Filename:  Line: 0)
+
+RegisterScreenBox tempGuardianVars=NetCache+NetCacheFeatures
+show postition = (0.0, 0.0, 0.0) (5.0, 5.0, 5.0)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 100)
+
+Unloading 8323 unused Assets to reduce memory usage. Loaded Objects now: 36667.
+Total: 306.766100 ms (FindLiveObjects: 2.603800 ms CreateObjectMapping: 3.791500 ms MarkObjects: 286.249000 ms  DeleteObjects: 14.121100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 94)
+
+Unloading 296 unused Assets to reduce memory usage. Loaded Objects now: 33182.
+Total: 284.649400 ms (FindLiveObjects: 2.134200 ms CreateObjectMapping: 2.956300 ms MarkObjects: 277.643400 ms  DeleteObjects: 1.915000 ms)
+
+Unexpected state: no bound subcategory
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BaseUI(Clone)/ChatMgr(Clone)/FriendListFrame(Clone)/ItemsList"
+ 
+(Filename:  Line: 0)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 95)
+
+Unloading 13364 unused Assets to reduce memory usage. Loaded Objects now: 33965.
+Total: 407.018700 ms (FindLiveObjects: 2.443500 ms CreateObjectMapping: 3.431200 ms MarkObjects: 368.893600 ms  DeleteObjects: 32.249900 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 464c -> priority: 1 
+  Thread -> id: 4a70 -> priority: 1 
+  Thread -> id: 1a00 -> priority: 1 
+  Thread -> id: 1604 -> priority: 1 
+Curl error 42: Callback aborted
